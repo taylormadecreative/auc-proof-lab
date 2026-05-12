@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+preview.png
+screenshot.png
+tiers-preview.png
+full-page.png
+preview-*.png
+.netlify/
+node_modules/
